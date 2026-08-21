@@ -12,7 +12,7 @@ The dashboard transforms marketing data into actionable insights by analyzing **
 
 ### 📈 Social Media Marketing Analysis
 
-![Social Media Marketing Analysis Dashboard](Images/Social%20Media%20Marketing%20Analysis.png)
+![Social Media Marketing Analysis Dashboard](Image/Dashboard.png)
 
 The dashboard provides a comprehensive overview of social media marketing performance through interactive KPIs and visualizations.
 
@@ -35,7 +35,7 @@ The dashboard provides a comprehensive overview of social media marketing perfor
 
 ---
 
-## ✨ Dashboard Features
+## Dashboard Features
 
 * Interactive KPI cards
 * Platform-wise performance analysis
@@ -51,7 +51,7 @@ The dashboard provides a comprehensive overview of social media marketing perfor
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Power BI** – Dashboard development and data visualization
 * **Microsoft Excel** – Data cleaning and preparation
@@ -59,7 +59,7 @@ The dashboard provides a comprehensive overview of social media marketing perfor
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * **YouTube** shows the highest engagement and conversion performance among the analyzed platforms.
 * **Video and Carousel** content types generate strong audience interaction.
@@ -73,7 +73,7 @@ The dashboard provides a comprehensive overview of social media marketing perfor
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 ### **Archana**
 
